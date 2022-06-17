@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dada2"]
+	path = dada2
+	url = https://github.com/benjjneb/dada2
+	shallow = true
+	registered = true
+[submodule "decontam"]
+	path = decontam
+	url = https://github.com/benjjneb/decontam
+	shallow = true
+	registered = true
