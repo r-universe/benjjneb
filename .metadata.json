@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "package": "dada2"
+  },
+  {
+    "package": "decontam"
+  }
+]
